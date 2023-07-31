@@ -1,4 +1,4 @@
-# Real and Fake Face Derection usign CNN
+# Real and Fake Face Detection usign CNN
 
 este proyecto está motivado por una tecnología insurgente causada por lo avanzada que está el área de inteligencia artificial, y es el Deepfake. El Deepfake es la manipulación de imagenes o videos por la cual se logra, o bien hacer mover una imagen inanimada, o colocar la cara de alguien en un video en el que no aparecía, donde, ha llegado a tal punto que puede ser indetectable para el ojo humano. No hay que forzar mucho a la intuición para imaginarse qué se podría hacer con esta tecnología, es por esto que es perentorio desarrollar en paralelo una tecnología capaz de contrarrestar los efectos nocivos que pudiera causar el Deepfake. Con este objetivo en mente, en el proyecto a realizar, se ha elegido la implementación de una herramienta, desarrollada con redes neuronales, para la identificación de imagenes reales o artificiales.
 
